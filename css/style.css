@@ -1,0 +1,35 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.container-fluid{
+    background-color: #264653;
+}
+
+.text-color{
+    color: #E0E0E0;
+}
+.button{
+    background-color: #E76F51;
+    width: 164px;
+    height: 44px;
+}
+.paragraph-text-color{
+    color: #E76F51
+}
+.bike-1{
+    filter: grayscale(1);
+}
+.bike-2{
+    filter: grayscale(60%);
+}
+.icon-color{
+    color: #E77C40;
+}
+.card-text{
+    color: #6C6C6C
+    ;
+}
+.clints{
+    color: #23A6F0;
+    text-decoration: none;
+}
